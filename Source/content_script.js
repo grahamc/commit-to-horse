@@ -15,6 +15,7 @@ var commitToHorse = new function() {
   this.go = function() {
     var paths = [
       this.classpath('p', 'commit-title') + '/a',
+      this.classpath('div', 'full-commit') + '/p[@class="commit-title"]',
       this.classpath('div', 'commit-desc') + '/pre'
     ]
 
