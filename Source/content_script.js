@@ -64,5 +64,7 @@ var commitToHorse = new function() {
   }
 }
 
-commitToHorse.go()
+if (document.URL.indexOf("#nohorse") == -1) {
+  commitToHorse.go();
+}
 
