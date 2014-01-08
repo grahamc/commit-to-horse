@@ -11,6 +11,7 @@ Note, if you add #nohorse to a URL, it stops getting horsey.
 Examples
 --------
 ![example1](http://gsc.io/s/example_187E072C_png)
+![example2](http://gsc.io/s/example2_187E09E9_png)
 
 Installation
 ------------
