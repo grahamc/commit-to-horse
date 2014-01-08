@@ -1,12 +1,12 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "Commit to Horse",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
-	"content_scripts": 
+	"description": "Everyone on GitHub is a horse.",
+	"content_scripts":
 	[
 		{
-			"matches": ["*://*/*"],
+			"matches": ["https://github.com/*"],
 			"js": ["content_script.js"],
 			"run_at": "document_end"
 		}
