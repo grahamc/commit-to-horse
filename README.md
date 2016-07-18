@@ -1,5 +1,5 @@
 commit-to-horse
-=============
+===============
 
 Chrome extension that replaces commit messages with whinneying and horsing
 around.
