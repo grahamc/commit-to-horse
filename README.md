@@ -19,4 +19,3 @@ Installation
 In Chrome, choose Window > Extensions.  Drag CommitToHorse.crx into the page that appears.
 
 [1]: https://github.com/grahamc/commit-to-horse/raw/master/CommitToHorse.crx
-
