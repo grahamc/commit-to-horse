@@ -6,6 +6,8 @@ commit-to-horse
 Chrome extension that replaces commit messages with whinneying and horsing
 around.
 
+
+
 Note, if you add #nohorse to a URL, it stops getting horsey.
 
 Examples
